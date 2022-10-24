@@ -1,0 +1,48 @@
+text:Your house is too small . Why not buy a big one .	labels:I do wish I could afford one .
+text:You can get a loan from the bank . You know LPF program provides low cost loans for participants home purchases .	labels:Of course I know that . But don't you notice that the house price is skyrocketing ?	episode_done:True
+text:How do you do , Prof.Smith .	labels:How do you do , Ms . Yang.You speak very good English .
+text:Thank you . I begin to like English even when I was a child .	labels:Where did you learn it ?
+text:At school , in China.This is my first time to be out of my own country .	labels:It's amazing .	episode_done:True
+text:Look ! there's a Folk concert tomorrow evening . Do you Want to go ?	labels:I don't like Folk music very much .
+text:What kind of music do you like ?	labels:I like classical music . Do you ?
+text:Not very much . Classical music sends me to sleep	labels:I don't believe you .
+text:It's true .	labels:You are funny !	episode_done:True
+text:What do you like to do in your spare time ?	labels:I like playing chess .
+text:Do you have any hobbies besides playing chess ?	labels:I'm afraid not .
+text:Do you have any hobbies like playing tennis or things like that ?	labels:Oh , yes . I like playing basketball .
+text:Can you tell me why you like it ?	labels:Because I like the feeling of cooperating with others .	episode_done:True
+text:Where is John ? I can't find him anywhere .	labels:Haven't you heard that he is in prison ?
+text:What ? Beg your pardon .	labels:John is in prison now . He was copped outstealing .
+text:I just cann't believe my ears !	labels:I'll certainly try to help you.What topic is your paper on ?	episode_done:True
+text:Hey , Ted . What are you up to this Friday ?	labels:Well , I have the day off from work .
+text:That's great ! Do you have any plans ?	labels:Well , I'Ve been working so hard lately , so I'll probably just take it easy .
+text:Sounds nice .	labels:Yeah , I'll probably just stay in and relax . Maybe watch a few movies .	episode_done:True
+text:Can I stop by ?	labels:Sure . Any time .
+text:You honestly believe the world's improving every year ?	labels:Yes , I do . I think that science is making us wiser . What do you think ?
+text:I don't think you're right there .	labels:I believe industry is making us wealthier .
+text:I don't believe that .	labels:And in my opinion , medicine is making us healthier .
+text:I agree with you in the sense . But we're all more miserable than ever , aren't we ?	labels:I don't agree with you . I maintain that we're healthier , wealthier and wiser than we were a hundred years ago .	episode_done:True
+text:Your house is too small . Why not buy a big one .	labels:I do wish I could afford one .
+text:You can get a loan from the bank . You know LPF program provides low cost loans for participants home purchases .	labels:Of course I know that . But don't you notice that the house price is skyrocketing ?	episode_done:True
+text:How do you do , Prof.Smith .	labels:How do you do , Ms . Yang.You speak very good English .
+text:Thank you . I begin to like English even when I was a child .	labels:Where did you learn it ?
+text:At school , in China.This is my first time to be out of my own country .	labels:It's amazing .	episode_done:True
+text:Look ! there's a Folk concert tomorrow evening . Do you Want to go ?	labels:I don't like Folk music very much .
+text:What kind of music do you like ?	labels:I like classical music . Do you ?
+text:Not very much . Classical music sends me to sleep	labels:I don't believe you .
+text:It's true .	labels:You are funny !	episode_done:True
+text:What do you like to do in your spare time ?	labels:I like playing chess .
+text:Do you have any hobbies besides playing chess ?	labels:I'm afraid not .
+text:Do you have any hobbies like playing tennis or things like that ?	labels:Oh , yes . I like playing basketball .
+text:Can you tell me why you like it ?	labels:Because I like the feeling of cooperating with others .	episode_done:True
+text:Where is John ? I can't find him anywhere .	labels:Haven't you heard that he is in prison ?
+text:What ? Beg your pardon .	labels:John is in prison now . He was copped outstealing .
+text:I just cann't believe my ears !	labels:I'll certainly try to help you.What topic is your paper on ?	episode_done:True
+text:Hey , Ted . What are you up to this Friday ?	labels:Well , I have the day off from work .
+text:That's great ! Do you have any plans ?	labels:Well , I'Ve been working so hard lately , so I'll probably just take it easy .
+text:Sounds nice .	labels:Yeah , I'll probably just stay in and relax . Maybe watch a few movies .	episode_done:True
+text:Can I stop by ?	labels:Sure . Any time .
+text:You honestly believe the world's improving every year ?	labels:Yes , I do . I think that science is making us wiser . What do you think ?
+text:I don't think you're right there .	labels:I believe industry is making us wealthier .
+text:I don't believe that .	labels:And in my opinion , medicine is making us healthier .
+text:I agree with you in the sense . But we're all more miserable than ever , aren't we ?	labels:I don't agree with you . I maintain that we're healthier , wealthier and wiser than we were a hundred years ago .	episode_done:True

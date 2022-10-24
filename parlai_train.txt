@@ -1,0 +1,90 @@
+text:Jim , how about going for a few beers after dinner ?	labels:You know that is tempting but is really not good for our fitness .
+text:What do you mean ? It will help us to relax .	labels:Do you really think so ? I don't . It will just make us fat and act silly . Remember last time ?
+text:I guess you are right.But what shall we do ? I don't feel like sitting at home .	labels:I suggest a walk over to the gym where we can play singsong and meet some of our friends .
+text:That's a good idea . I hear Mary and Sally often go there to play pingpong.Perhaps we can make a foursome with them .	labels:Sounds great to me ! If they are willing , we could ask them to go dancing with us.That is excellent exercise and fun , too .
+text:Good.Let ' s go now .	labels:All right .	episode_done:True
+text:Can you do push-ups ?	labels:Of course I can . It's a piece of cake ! Believe it or not , I can do 30 push-ups a minute .
+text:Really ? I think that's impossible !	labels:You mean 30 push-ups ?
+text:Yeah !	labels:It's easy . If you do exercise everyday , you can make it , too .	episode_done:True
+text:Can you study with the radio on ?	labels:No , I listen to background music .
+text:What is the difference ?	labels:The radio has too many comerials .	episode_done:True
+text:Are you all right ?	labels:I will be all right soon . I was terrified when I watched them fall from the wire .
+text:Don't worry.He is an acrobat 。	labels:I see .	episode_done:True
+text:Hey John , nice skates . Are they new ?	labels:Yeah , I just got them . I started playing ice hockey in a community league . So , I finally got myself new skates .
+text:What position do you play ?	labels:I'm a defender . It's a lot of fun . You don't have to be able to skate as fast on defense .	episode_done:True
+text:Hey Lydia , what are you reading ?	labels:I'm looking at my horoscope for this month ! My outlook is very positive . It says that I should take a vacation to someplace @exotic , and that I will have a passionate summer fling !
+text:What are you talking about ? Let me see that ... What are horoscopes ?	labels:It's a prediction of your month , based on your zodiac sign . You have a different sign for the month and date you were born in . I !was born on April 15th , so I'm an Aries . When were you born ?
+text:January 5th .	labels:Let's see . . . you're a Capricorn . It says that you will be feeling stress at work , but you could see new , exciting developments in your love life . Looks like we'll both have interesting summers !
+text:That's bogus . I don't feel any stress at work , and my love life is practically nonexistent . This zodiac stuff is all a bunch of nonsense .	labels:Yeah	episode_done:True
+text:Frank's getting married , do you believe this ?	labels:Is he really ?
+text:Yes , he is . He loves the girl very much .	labels:Who is he marring ?
+text:A girl he met on holiday in Spain , I think .	labels:Ohh okay	episode_done:True
+text:I hear you bought a new house in the northern suburbs .	labels:That's right , we bought it the same day we came on the market .
+text:What kind of house is it ?	labels:It's a wonderful Spanish style .
+text:Oh , I love the roof tiles on Spanish style houses .	labels:And it's a bargaining . A house like this in river side costs double the price .
+text:Great , is it a two bedroom house ?	labels:No , it has three bedrooms and three beds , and has a living room with a twelve-foot ceiling . There's a two-car garage .
+text:That's a nice area too . It'll be a good investment for you .	labels:Yeas , when will you buy a house ?
+text:Not untill the end of this year , you know , just before my wedding .	labels:Right , congratulations .	episode_done:True
+text:Hi , Becky , what's up ?	labels:Not much , except that my mother-in-law is driving me up the wall .
+text:What's the problem ?	labels:She loves to nit-pick and criticizes everything that I do . I can never do anything right when she's around .
+text:For example ?	labels:Well , last week I invited her over to dinner . My husband and I had no problem with the food , but if you listened to her , then it @would seem like I fed her old meat and rotten vegetables . There's just nothing can please her .
+text:No , I can't see that happening . I know you're a good cook and nothing like that would ever happen .	labels:It's not just that . She also criticizes how we raise the kids .
+text:My mother-in-law used to do the same thing to us . If it wasn't disciplining them enough , then we were disciplining them too much . @She also complained about the food we fed them , the schools we sent them too , and everything else under the sun .	labels:You said she used to ? How did you stop her ?
+text:We basically sat her down and told her how we felt about her constant criticizing , and how we welcomed her advice but hoped she'd !let us do our things . She understood , and now everything is a lot more peaceful .	labels:Okay	episode_done:True
+text:How are Zina's new programmers working out ?	labels:I hate to admit it , but they're good . And fast . The Filipino kid is a genius .
+text:So you'll make the Stars.com deadline , and have us up and running next week ?	labels:It'll be close , but we'll make it .
+text:Good . After Stars.com starts paying us , we won't need Vikam's cash anymore .	labels:And if we don't need them , we won't need Zina , either .	episode_done:True
+text:Do you like cooking ?	labels:Yes . I like cooking very much . I got this hobby when I was 12 years sold .
+text:Why do you like it ?	labels:I have no idea . I like cooking by myself . I like to taste delicious food .
+text:That's wonderful !	labels:And I love trying new recipes , which I usually test with my friends . You can come , too .
+text:Really ? I hope I can have a chance to taste it . Don't forget to tell me .	labels:Certainly .	episode_done:True
+text:Anyone home ? Jen !	labels:I'm in the kitchen ... let yourself in !
+text:Wow ! You're really working up a storm !	labels:I know . I've even worked up a sweat .
+text:You look like a cooking show host--only messier .	labels:You look so tan and healthy !
+text:Thanks . I just got back from summer camp .	labels:How was it ?
+text:Great . I got to try so many things for the first time .	labels:Like what ?
+text:I went sailing , fishing , and horseback riding .	labels:I'm so jealous .	episode_done:True
+text:Diana , do you like the perfume I gave you ?	labels:It's good . But to tell you the truth , I don't wear perfume .
+text:I'm sorry . I didn't know that .	labels:That's all right . Thank you all the same .	episode_done:True
+text:Ah , ah , ah ...	labels:All right , Bill.Here's your daily exercise schedule . You are to jog before breakfast .
+text:Jog ?	labels:Then , you are to walk to work .
+text:Walk ?	labels:Thirty minutes in gym at lunch time .
+text:Oh no .	labels:Use the stairs , never the elevator .
+text:Oh , dear .	labels:And three times a week , you can either swim , play racketball , or hand ball .
+text:OK , you can stop now.It's time for the dance class .	labels:Dance class ! I don't know how .
+text:You will .	labels:Let's see	episode_done:True
+text:Hi Bill , I saw your grandma yesterday .	labels:Oh where was that ?
+text:I was running around the track at my college and there she was walking around the same track .	labels:Grannie always tries to stay fit and healthy.She is always making us kids eat the proper foods .
+text:Well , it pays off for her.How old is she anyway ?	labels:She will be 86 next month .	episode_done:True
+text:I would like to register for a class today .	labels:No problem , what class would you like to take ?
+text:I would very much enjoy taking a Psychology class.Because I'm crazy .	labels:There are two classes that are still open .
+text:Which days are these classes on ?	labels:The first class is a Tuesday and Thursday class from two to three .
+text:What about the other class ?	labels:The other class is on Monday and Wednesday from 10 am - 12 .
+text:Are you sure there are no more open classes ?	labels:I'm positive .
+text:Sign me up for Monday and Wednesday .	labels:Okay , I'll sign you up .	episode_done:True
+text:Dad , why are you taping the windows ?	labels:Honey , a typhoon is coming .
+text:Really ? Wow , I don't have to go to school tomorrow .	labels:Jenny , come and help , we need to prepare more food .
+text:OK . Dad ! I'm coming .	labels:Good	episode_done:True
+text:Hi , my name is Lean , and I'm from Russia .	labels:Nice to meet you , Lean . My name is Alike . I'm from Japan .
+text:To me English is a difficult language .	labels:A second language is always difficult .
+text:True , but English is harder than most . It's a crazy language .	labels:A crazy language ? Why do you say that ?
+text:One letter can have several pronunciations and one word can have several meanings .	labels:No wonder you say English is a crazy language .	episode_done:True
+text:Can I help you ?	labels:I hope so . I'm looking for some material for a paper I'm writing , and I'm not quite sure where to look .
+text:I'll certainly try to help you . What topic is your paper on ?	labels:My paper is on the influence of television on children .
+text:There are several possible sources you might use for that topic . I suggest you use the computer and the computer will give you a list of every scientific journal that talks about children and television .	labels:Thank you for you help .	episode_done:True
+text:Here's your hot dog and beer . What happened ? Did I miss anything ?	labels:Yeah , Cal Ripen just hit a home run .
+text:What's the score ?	labels:Well it was 3 to 4 , but Ripen's home run made it 5 to 4 since another player was on first base .
+text:So Baltimore is winning ?	labels:Right .
+text:This is a really great place to watch a baseball game .	labels:Yeah , there isn't a bad seat in the place .
+text:The fans are great here , too . Not like in Philadelphia .	labels:It was a great idea to spend a day watching a game .	episode_done:True
+text:How do you like the pizza here ?	labels:Perfect . It really hits the spot .
+text:Do you have a light ?	labels:Sorry , I don't smoke .	episode_done:True
+text:I was scared stiff of giving my first performance .	labels:Were you ? your performance was excellent .
+text:Thank you for your kindly words .	labels:You're welcome	episode_done:True
+text:Excuse me . Could you please take a picture of us with this camera ?	labels:Sure . Which button do I press to shoot ?
+text:This one .	labels:Do I have to focus it ?
+text:No , this is a focus-free camera . All you have to do is point and press the button .	labels:All right . Say cheese !	episode_done:True
+text:Every country should face the history .	labels:Yeah , we don't live in the vacuum . We have traditional values and long but different history .
+text:Sometimes , we , human beings , really had done something wrong , so we should admit it at first .	labels:But there is always somebody who wants to turn his back on the true history .	episode_done:True
+text:Do you like traveling , Kathy ?	labels:I like traveling for pleasure to get places for vacation for instance . But I don't like traveling to work , waiting for buses , or ...
+text:Or getting stuck in traffic jams when you're driving .	labels:Exactly .	episode_done:True

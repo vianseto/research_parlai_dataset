@@ -1,0 +1,26 @@
+text:What do you plan to do for your birthday ?	labels:I want to have a picnic with my friends , Mum .
+text:How about a party at home ? That way we can get together and celebrate it .	labels:OK , Mum . I'll invite my friends home .
+text:How may I help you ?	labels:I would like to return this book .
+text:Is that all you need ?	labels:I also want to check out this video .
+text:Is that all you would like to check out ?	labels:That's all I need .
+text:Do you have your library card ?	labels:Here it is .
+text:Make sure to take proper care of this video .	labels:That won't be a problem .
+text:If you damage the video , you will be fined .	labels:I won't damage it .	episode_done:True
+text:What's the matter with you then ? You look miserable .	labels:It's us .
+text:What do you mean by us .	labels:Well , you always say you're busy .
+text:That's right .	labels:And you often go back to live with your parents and leave our son in the room by himself .
+text:I ... I ... I miss my parents , also they miss me .	labels:Oh I remember , I cut terrible calls , and you didn't say anything about it .
+text:You mean I am groaned a few words ?	labels:Totally not . Perhaps it's about our marriage .	episode_done:True
+text:Hi , Mary . You look pale today . What's the matter with you ?	labels:I think I've caught a cold . Now I'm aching all over .
+text:You'd better take some medicine and have a good rest . I hope you'll be yourself pretty soon .	labels:Thank you . I suppose I should go to see a doctor .	episode_done:True
+text:I feel like going for a drink , it's been a long day .	labels:Great idea ! Peter , I could use the drink .
+text:How about the new bar across road ?	labels:Sounds good . The food there is fantastic , too .
+text:I agree , I had lunch there last week .	labels:excellent ! That sounds like a plan .	episode_done:True
+text:Could you tell me the right time , please ?	labels:Well . My watch says five past two . But it's no use rely on it because it has been gaining and losing these last a few days .
+text:You have to go and fix it .	labels:Yes . I will .	episode_done:True
+text:does your family have a record of your ancestors ?	labels:sure . My mom has been working on our family tree for years . She's always updating it .
+text:do you have a copy of your family tree in your house ? I'd love to see it .	labels:I can show it to you now , if you like . I think it goes back about 8 generations so far .
+text:that's amazing . Do you have a large extended family ?	labels:I'Ve got 30 cousins on my mom's side and 10 cousins on my dad's side .
+text:are you very close to your first-cousins ?	labels:the ones that are my age are close relatives . Now that I'm older , I don't spend as much time with them as I used to , so I don't know my younger cousins as well as the older ones .
+text:I see . who's the head of your household ?	labels:it's definitely my mother . And , her mother is definitely the matriarch of the bigger family .
+text:that's interesting . What does your grandfather think of your step-mother ?	labels:at first , she was quite critical of her , but now that they'Ve been married for a few years , she's starting to accept the fact that my father divorced my mother .	episode_done:True
