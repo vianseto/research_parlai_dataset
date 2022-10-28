@@ -1,0 +1,568 @@
+1 Maria pergi ke taman.
+2 Maria pergi ke dapur.
+3 Bill kembali ke kantor.
+4 Bill berjalan ke lorong.
+5 Jeff kembali ke kamar tidur.
+6 Fred pindah ke lorong.
+7 Bill pindah ke kamar mandi.
+8 Jeff kembali ke taman.
+9 Jeff kembali ke dapur.
+10 Fred kembali ke taman.
+11 Maria mendapatkan bola sepak di sana.
+12 Maria menyerahkan bola sepak itu kepada Jeff.
+13 Apa yang Maria berikan kepada Jeff?	bola sepak	12
+14 Bill kembali ke lorong.
+15 Jeff kembali ke kamar tidur.
+16 Apa yang Maria berikan kepada Jeff?	bola sepak	12
+17 Fred pindah ke kamar mandi.
+18 Maria mengambil susu di sana.
+19 Apa yang Maria berikan kepada Jeff?	bola sepak	12
+20 Fred pergi ke dapur.
+21 Maria menyerahkan susu itu kepada Fred.
+22 Siapa yang memberikan susu itu kepada Fred?	Maria	21
+23 Fred pindah ke lorong.
+24 Jeff pergi ke kantor.
+25 Kepada siapa Maria memberikan susu itu?	Fred	21
+1 Jeff pergi ke kamar tidur.
+2 Maria pergi ke dapur.
+3 Maria pergi ke kamar mandi.
+4 Bill pindah ke dapur.
+5 Maria pindah ke taman.
+6 Bill kembali ke kantor.
+7 Bill pergi ke dapur.
+8 Maria kembali ke kamar mandi.
+9 Maria pergi ke dapur.
+10 Jeff pindah ke kantor.
+11 Fred pergi ke lorong.
+12 Fred kembali ke taman.
+13 Maria pergi ke kantor.
+14 Jeff membawa apel itu ke sana.
+15 Jeff membuang apel itu.
+16 Maria pergi ke taman.
+17 Bill kembali ke kamar mandi.
+18 Maria pergi ke kantor.
+19 Bill mengambil susu di sana.
+20 Maria mengambil apel di sana.
+21 Jeff pindah ke taman.
+22 Fred pindah ke kantor.
+23 Maria menjatuhkan apel itu.
+24 Fred membawa bola sepak ke sana.
+25 Fred menyerahkan bola sepak itu kepada Maria.
+26 Fred mengambil apel di sana.
+27 Siapa yang menerima bola sepak?	Maria	25
+28 Maria pergi ke taman.
+29 Jeff pergi ke lorong.
+30 Apa yang Fred berikan kepada Maria?	bola sepak	25
+31 Bill pergi ke kamar tidur.
+32 Maria meletakkan bola sepak itu.
+33 Fred kembali ke taman.
+34 Fred menyerahkan apel itu kepada Maria.
+35 Siapa yang menerima apel itu?	Maria	34
+36 Bill meninggalkan susu.
+37 Maria menyerahkan apel itu kepada Fred.
+38 Kepada siapa Maria memberikan apel itu?	Fred	37
+39 Fred memberikan apel itu kepada Maria.
+40 Fred pergi ke kamar mandi.
+41 Apa yang Fred berikan kepada Maria?	apel	39
+1 Bill meraih apel di sana.
+2 Bill mendapatkan bola sepak di sana.
+3 Jeff pergi ke kamar mandi.
+4 Bill menyerahkan apel itu kepada Jeff.
+5 Apa yang diberikan Bill kepada Jeff?	apel	4
+6 Jeff menyerahkan apel itu kepada Bill.
+7 Bill menyerahkan apel itu kepada Jeff.
+8 Apa yang diberikan Bill kepada Jeff?	apel	7
+9 Jeff menyerahkan apel itu kepada Bill.
+10 Bill menyerahkan apel itu kepada Jeff.
+11 Apa yang diberikan Bill kepada Jeff?	apel	10
+12 Jeff meletakkan apel itu.
+13 Bill menyerahkan bola sepak itu kepada Jeff.
+14 Apa yang diberikan Bill kepada Jeff?	apel	10
+15 Jeff memberikan bola sepak itu kepada Bill.
+16 Maria mendapatkan susu di sana.
+17 Apa yang diberikan Bill kepada Jeff?	apel	10
+1 Maria membawa bola sepak ke sana.
+2 Bill pergi ke taman.
+3 Fred pergi ke kantor.
+4 Maria meletakkan bola sepak di sana.
+5 Jeff pergi ke dapur.
+6 Maria membawa bola sepak ke sana.
+7 Maria memberikan bola sepak itu kepada Jeff.
+8 Jeff pergi ke lorong.
+9 Apa yang Maria berikan kepada Jeff?	bola sepak	7
+10 Jeff pergi ke taman.
+11 Bill pergi ke kantor.
+12 Siapa yang menerima bola sepak?	Jeff	7
+13 Fred pergi ke lorong.
+14 Fred mengambil apel di sana.
+15 Maria pergi ke kamar tidur.
+16 Maria pergi ke kantor.
+17 Maria pindah ke lorong.
+18 Maria pergi ke kamar mandi.
+19 Jeff membuang bola sepak itu.
+20 Bill pergi ke taman.
+21 Fred pergi ke taman.
+22 Jeff meraih bola sepak di sana.
+23 Fred meninggalkan apel.
+24 Jeff membuang bola sepak itu.
+25 Maria mendapatkan susu di sana.
+26 Jeff mendapatkan apel di sana.
+27 Bill mengambil bola sepak di sana.
+28 Maria meninggalkan susu.
+29 Jeff pergi ke dapur.
+30 Fred pindah ke kamar tidur.
+31 Bill pergi ke dapur.
+32 Jeff membuang apel itu.
+33 Bill menyerahkan bola sepak itu kepada Jeff.
+34 Maria pergi ke taman.
+35 Siapa yang menerima bola sepak?	Jeff	33
+36 Maria pergi ke kantor.
+37 Jeff menyerahkan bola sepak itu kepada Bill.
+38 Apa yang Jeff berikan kepada Bill?	bola sepak	37
+39 Bill mengambil apel di sana.
+40 Bill menyerahkan apel itu kepada Jeff.
+41 Siapa yang menerima bola sepak?	Tagihan	37
+1 Jeff pindah ke kamar mandi.
+2 Jeff pindah ke taman.
+3 Fred pergi ke kamar mandi.
+4 Jeff pergi ke lorong.
+5 Fred pindah ke kantor.
+6 Jeff pergi ke kamar tidur.
+7 Jeff mengambil bola sepak di sana.
+8 Maria berangkat ke kantor.
+9 Fred pindah ke dapur.
+10 Fred pergi ke lorong.
+11 Jeff membawa susu ke sana.
+12 Fred pergi ke dapur.
+13 Maria pergi ke kamar mandi.
+14 Maria mengambil apel di sana.
+15 Jeff pergi ke dapur.
+16 Jeff menyerahkan bola sepak itu kepada Fred.
+17 Apa yang Jeff berikan kepada Fred?	bola sepak	16
+18 Maria menjatuhkan apel itu.
+19 Fred menyerahkan bola sepak itu kepada Bill.
+20 Apa yang Fred berikan kepada Bill?	bola sepak	19
+21 Fred pergi ke lorong.
+22 Bill menyerahkan bola sepak itu kepada Jeff.
+23 Siapa yang memberi bola sepak?	Tagihan	22
+24 Maria kembali ke dapur.
+25 Jeff menyerahkan bola sepak itu kepada Maria.
+26 Siapa yang menerima bola sepak?	Maria	25
+27 Maria memberikan bola sepak itu kepada Bill.
+28 Bill memberikan bola sepak itu kepada Maria.
+29 Apa yang diberikan Bill kepada Maria?	bola sepak	28
+1 Maria pergi ke kamar mandi.
+2 Jeff mengambil apel di sana.
+3 Bill pergi ke kantor.
+4 Jeff pergi ke kantor.
+5 Jeff memberikan apel itu kepada Bill.
+6 Bill menyerahkan apel itu kepada Jeff.
+7 Siapa yang menerima apel itu?	Jeff	6
+8 Jeff memberikan apel itu kepada Bill.
+9 Bill menyerahkan apel itu kepada Jeff.
+10 Siapa yang memberi apel itu?	Tagihan	9
+11 Jeff mengambil bola sepak di sana.
+12 Jeff menyerahkan apel itu kepada Bill.
+13 Apa yang Jeff berikan kepada Bill?	apel	12
+14 Maria pergi ke dapur.
+15 Bill menyerahkan apel itu kepada Jeff.
+16 Apa yang diberikan Bill kepada Jeff?	apel	15
+17 Maria pergi ke kamar mandi.
+18 Maria pindah ke lorong.
+19 Siapa yang menerima apel itu?	Jeff	15
+1 Fred pergi ke taman.
+2 Fred pindah ke dapur.
+3 Bill kembali ke dapur.
+4 Bill pindah ke kantor.
+5 Maria kembali ke dapur.
+6 Fred pergi ke lorong.
+7 Bill pindah ke kamar tidur.
+8 Jeff pindah ke kamar mandi.
+9 Bill pindah ke lorong.
+10 Jeff pindah ke kantor.
+11 Fred pergi ke taman.
+12 Fred mengambil apel di sana.
+13 Bill pergi ke dapur.
+14 Bill pergi ke kantor.
+15 Fred pergi ke kamar tidur.
+16 Fred meletakkan apel itu.
+17 Fred kembali ke kantor.
+18 Bill kembali ke kebun.
+19 Bill pergi ke kantor.
+20 Jeff pergi ke kamar mandi.
+21 Fred pindah ke lorong.
+22 Fred pergi ke dapur.
+23 Maria kembali ke taman.
+24 Maria pindah ke kamar mandi.
+25 Fred kembali ke kantor.
+26 Maria pergi ke kantor.
+27 Fred kembali ke kamar tidur.
+28 Maria pergi ke taman.
+29 Maria pindah ke kantor.
+30 Fred mengambil bola sepak di sana.
+31 Fred mengambil susu di sana.
+32 Maria pergi ke dapur.
+33 Maria pindah ke kamar mandi.
+34 Bill pergi ke kamar mandi.
+35 Fred membawa apel itu ke sana.
+36 Maria pergi ke dapur.
+37 Fred meletakkan apel itu.
+38 Bill pergi ke dapur.
+39 Fred pindah ke kantor.
+40 Fred menjatuhkan susu.
+41 Maria pergi ke kantor.
+42 Jeff pergi ke taman.
+43 Fred meninggalkan bola sepak.
+44 Maria mengambil bola sepak di sana.
+45 Maria meninggalkan bola sepak.
+46 Fred pergi ke kamar tidur.
+47 Fred mengambil apel di sana.
+48 Bill kembali ke kamar tidur.
+49 Jeff pergi ke kamar tidur.
+50 Maria pindah ke dapur.
+51 Fred memberikan apel itu kepada Bill.
+52 Bill memberikan apel itu kepada Fred.
+53 Siapa yang memberi apel itu?	Tagihan	52
+54 Fred memberikan apel itu kepada Bill.
+55 Bill memberikan apel itu kepada Fred.
+56 Apa yang diberikan Bill kepada Fred?	apel	55
+57 Fred memberikan apel itu kepada Bill.
+58 Bill memberikan apel itu kepada Fred.
+59 Apa yang Bill berikan kepada Fred?	apel	58
+60 Bill pindah ke taman.
+61 Fred pergi ke lorong.
+62 Kepada siapa Bill memberikan apel itu?	Fred	58
+63 Bill pergi ke kamar mandi.
+64 Jeff pindah ke taman.
+65 Apa yang Bill berikan kepada Fred?	apel	58
+1 Fred pergi ke dapur.
+2 Jeff mengambil bola sepak di sana.
+3 Maria mengambil apel di sana.
+4 Jeff meninggalkan bola sepak.
+5 Maria pindah ke kantor.
+6 Maria memberikan apel itu kepada Jeff.
+7 Kepada siapa Maria memberikan apel itu?	Jeff	6
+8 Fred mengambil susu di sana.
+9 Fred meletakkan susunya.
+10 Apa yang Maria berikan kepada Jeff?	apel	6
+11 Jeff menyerahkan apel itu kepada Maria.
+12 Maria memberikan apel itu kepada Jeff.
+13 Apa yang Maria berikan kepada Jeff?	apel	12
+14 Jeff memberikan apel itu kepada Maria.
+15 Maria meraih bola sepak di sana.
+16 Siapa yang menerima apel itu?	Maria	14
+17 Maria membuang bola sepak itu.
+18 Jeff pindah ke kamar tidur.
+19 Kepada siapa Jeff memberikan apel itu?	Maria	14
+1 Fred membawa bola sepak ke sana.
+2 Fred mengoper bola sepak ke Jeff.
+3 Kepada siapa Fred memberikan bola sepak itu?	Jeff	2
+4 Jeff memberikan bola sepak itu kepada Fred.
+5 Fred pindah ke kamar tidur.
+6 Kepada siapa Jeff memberikan bola sepak itu?	Fred	4
+7 Maria pergi ke kamar tidur.
+8 Bill pergi ke kantor.
+9 Siapa yang menerima bola sepak?	Fred	4
+10 Fred memberikan bola sepak itu kepada Maria.
+11 Jeff kembali ke dapur.
+12 Apa yang Fred berikan kepada Maria?	bola sepak	10
+13 Bill kembali ke kamar mandi.
+14 Maria memberikan bola sepak itu kepada Fred.
+15 Siapa yang menerima bola sepak?	Fred	14
+1 Maria kembali ke kantor.
+2 Fred pergi ke kantor.
+3 Jeff pergi ke kamar mandi.
+4 Bill pergi ke kantor.
+5 Fred pergi ke lorong.
+6 Jeff meraih apel di sana.
+7 Bill pindah ke dapur.
+8 Fred pindah ke kamar mandi.
+9 Fred pergi ke lorong.
+10 Fred pergi ke kamar tidur.
+11 Bill pindah ke taman.
+12 Maria pergi ke dapur.
+13 Jeff mendapatkan bola sepak di sana.
+14 Maria membawa susu itu ke sana.
+15 Jeff pergi ke kamar tidur.
+16 Jeff menyerahkan apel itu kepada Fred.
+17 Apa yang Jeff berikan kepada Fred?	apel	16
+18 Maria kembali ke kamar tidur.
+19 Fred memberikan apel itu kepada Maria.
+20 Apa yang Fred berikan kepada Maria?	apel	19
+21 Jeff meninggalkan bola sepak.
+22 Jeff pergi ke dapur.
+23 Apa yang Fred berikan kepada Maria?	apel	19
+24 Maria membuang apel itu.
+25 Fred membawa apel itu ke sana.
+26 Kepada siapa Fred memberikan apel itu?	Maria	19
+27 Fred mengambil bola sepak di sana.
+28 Maria menjatuhkan susunya.
+29 Fred memberikan apel itu kepada Maria.
+30 Jeff pindah ke taman.
+31 Apa yang Fred berikan kepada Maria?	apel	29
+1 Fred mendapatkan susu di sana.
+2 Fred kembali ke kamar mandi.
+3 Bill kembali ke kamar mandi.
+4 Fred memberikan susu itu kepada Bill.
+5 Siapa yang memberikan susu kepada Bill?	Fred	4
+6 Bill membawa bola sepak ke sana.
+7 Bill menyerahkan bola sepak itu kepada Fred.
+8 Kepada siapa Bill memberikan bola sepak itu?	Fred	7
+9 Fred meninggalkan bola sepak.
+10 Bill mengambil bola sepak di sana.
+11 Apa yang Fred berikan kepada Bill?	susu	4
+12 Bill memberikan bola sepak itu kepada Fred.
+13 Fred menyerahkan bola sepak itu kepada Bill.
+14 Siapa yang menerima bola sepak?	Tagihan	13
+15 Bill menjatuhkan bola sepak.
+16 Fred membawa bola sepak ke sana.
+17 Apa yang Fred berikan kepada Bill?	bola sepak	13
+1 Maria kembali ke dapur.
+2 Bill pergi ke taman.
+3 Maria mengambil bola sepak di sana.
+4 Jeff pergi ke kantor.
+5 Jeff meraih apel di sana.
+6 Fred kembali ke kamar mandi.
+7 Jeff kembali ke dapur.
+8 Jeff memberikan apel itu kepada Maria.
+9 Kepada siapa Jeff memberikan apel itu?	Maria	8
+10 Maria meninggalkan bola sepak di sana.
+11 Maria meletakkan apel itu.
+12 Siapa yang memberi apel itu?	Jeff	8
+13 Maria mengambil apel itu di sana.
+14 Maria membawa bola sepak ke sana.
+15 Apa yang diberikan Jeff kepada Maria?	apel	8
+16 Maria memberikan apel itu kepada Jeff.
+17 Jeff menyerahkan apel itu kepada Maria.
+18 Siapa yang memberikan apel itu kepada Maria?	Jeff	17
+19 Maria menyerahkan apel itu kepada Jeff.
+20 Jeff memberikan apel itu kepada Maria.
+21 Siapa yang memberi apel itu?	Jeff	20
+1 Bill mengambil susu di sana.
+2 Fred pergi ke dapur.
+3 Maria kembali ke kamar tidur.
+4 Jeff mengambil apel di sana.
+5 Jeff memberikan apel itu kepada Maria.
+6 Fred pergi ke lorong.
+7 Siapa yang menerima apel itu?	Maria	5
+8 Maria meletakkan apel itu.
+9 Bill memberikan susu itu kepada Fred.
+10 Siapa yang memberi apel itu?	Jeff	5
+11 Fred memberikan susu itu kepada Bill.
+12 Fred pergi ke kamar tidur.
+13 Siapa yang memberikan susu kepada Bill?	Fred	11
+14 Maria mendapatkan apel di sana.
+15 Jeff pergi ke kamar mandi.
+16 Siapa yang memberikan susu kepada Bill?	Fred	11
+17 Maria menyerahkan apel itu kepada Fred.
+18 Bill kembali ke kamar mandi.
+19 Apa yang Maria berikan kepada Fred?	apel	17
+1 Maria pergi ke kamar mandi.
+2 Jeff mengambil apel di sana.
+3 Jeff meletakkan apel itu.
+4 Fred pergi ke lorong.
+5 Maria mengambil apel itu di sana.
+6 Maria memberikan apel itu kepada Jeff.
+7 Kepada siapa Maria memberikan apel itu?	Jeff	6
+8 Jeff pergi ke kamar tidur.
+9 Jeff pergi ke kamar mandi.
+10 Apa yang Maria berikan kepada Jeff?	apel	6
+11 Jeff memberikan apel itu kepada Maria.
+12 Jeff pergi ke kamar tidur.
+13 Kepada siapa Jeff memberikan apel itu?	Maria	11
+14 Fred kembali ke dapur.
+15 Maria pergi ke taman.
+16 Apa yang Jeff berikan kepada Maria?	apel	11
+17 Maria menyerahkan apel itu kepada Bill.
+18 Jeff pergi ke kamar mandi.
+19 Siapa yang memberi apel itu?	Maria	17
+1 Maria kembali ke dapur.
+2 Maria kembali ke kamar tidur.
+3 Bill pergi ke kamar mandi.
+4 Bill membawa apel itu ke sana.
+5 Maria kembali ke dapur.
+6 Bill kembali ke dapur.
+7 Bill meletakkan apel itu.
+8 Bill mengambil apel di sana.
+9 Bill menjatuhkan apel.
+10 Fred pergi ke dapur.
+11 Fred pergi ke taman.
+12 Jeff kembali ke taman.
+13 Jeff pergi ke dapur.
+14 Bill pergi ke kantor.
+15 Fred pergi ke dapur.
+16 Jeff mengambil apel di sana.
+17 Jeff memberikan apel itu kepada Maria.
+18 Bill membawa bola sepak ke sana.
+19 Siapa yang menerima apel itu?	Maria	17
+20 Maria memberikan apel itu kepada Fred.
+21 Fred memberikan apel itu kepada Maria.
+22 Siapa yang memberi apel itu?	Fred	21
+23 Maria meletakkan apel itu.
+24 Maria pergi ke kantor.
+25 Kepada siapa Fred memberikan apel itu?	Maria	21
+26 Bill menjatuhkan bola sepak.
+27 Bill mendapatkan bola sepak di sana.
+28 Apa yang Fred berikan kepada Maria?	apel	21
+29 Jeff mengambil apel di sana.
+30 Jeff menyerahkan apel itu kepada Fred.
+31 Siapa yang menerima apel itu?	Fred	30
+1 Maria pergi ke lorong.
+2 Jeff pergi ke kamar tidur.
+3 Fred pergi ke dapur.
+4 Bill mengambil susu di sana.
+5 Bill pergi ke lorong.
+6 Fred mendapatkan bola sepak di sana.
+7 Bill memberikan susu itu kepada Maria.
+8 Maria menyerahkan susu itu kepada Bill.
+9 Siapa yang memberikan susu kepada Bill?	Maria	8
+10 Bill menyerahkan susu itu kepada Maria.
+11 Maria memberikan susu itu kepada Bill.
+12 Kepada siapa Maria memberikan susu itu?	Tagihan	11
+13 Bill menyerahkan susu itu kepada Maria.
+14 Fred menjatuhkan bola sepak.
+15 Apa yang diberikan Bill kepada Maria?	susu	13
+16 Maria meninggalkan susu.
+17 Fred mengambil bola sepak di sana.
+18 Siapa yang memberi susu?	Tagihan	13
+19 Fred pergi ke kamar tidur.
+20 Fred memberikan bola sepak itu kepada Jeff.
+21 Kepada siapa Fred memberikan bola sepak itu?	Jeff	20
+1 Maria pindah ke kamar tidur.
+2 Bill pergi ke taman.
+3 Bill pergi ke kamar mandi.
+4 Jeff membawa bola sepak ke sana.
+5 Fred pergi ke lorong.
+6 Fred kembali ke dapur.
+7 Jeff memberikan bola sepak itu kepada Maria.
+8 Jeff pergi ke kantor.
+9 Siapa yang memberi bola sepak?	Jeff	7
+10 Maria menjatuhkan bola sepak.
+11 Maria mengambil bola sepak di sana.
+12 Siapa yang menerima bola sepak?	Maria	7
+13 Fred pergi ke kamar tidur.
+14 Bill membawa apel itu ke sana.
+15 Maria memberikan bola sepak itu kepada Fred.
+16 Fred menjatuhkan bola sepak.
+17 Kepada siapa Maria memberikan bola sepak itu?	Fred	15
+18 Maria mendapatkan bola sepak di sana.
+19 Bill membuang apel itu.
+20 Siapa yang menerima bola sepak?	Fred	15
+21 Bill pindah ke dapur.
+22 Jeff pergi ke lorong.
+23 Maria menyerahkan bola sepak itu kepada Fred.
+24 Maria pergi ke kamar mandi.
+25 Siapa yang menerima bola sepak?	Fred	23
+1 Maria pergi ke lorong.
+2 Maria kembali ke kamar mandi.
+3 Bill pergi ke kamar mandi.
+4 Jeff pergi ke kantor.
+5 Maria pergi ke lorong.
+6 Jeff meraih bola sepak di sana.
+7 Jeff mengambil susu di sana.
+8 Maria kembali ke taman.
+9 Bill pindah ke taman.
+10 Jeff meninggalkan bola sepak di sana.
+11 Jeff meletakkan susunya.
+12 Jeff pindah ke taman.
+13 Fred kembali ke taman.
+14 Bill kembali ke lorong.
+15 Bill pergi ke kamar mandi.
+16 Bill pindah ke dapur.
+17 Bill pindah ke kamar mandi.
+18 Maria pergi ke dapur.
+19 Fred kembali ke dapur.
+20 Jeff pergi ke lorong.
+21 Jeff pergi ke taman.
+22 Fred pindah ke taman.
+23 Bill pindah ke kantor.
+24 Bill mendapatkan bola sepak di sana.
+25 Bill pindah ke lorong.
+26 Fred kembali ke kantor.
+27 Fred pergi ke kamar mandi.
+28 Fred pergi ke kantor.
+29 Fred pergi ke dapur.
+30 Bill menjatuhkan bola sepak.
+31 Bill meraih bola sepak di sana.
+32 Bill pergi ke kamar mandi.
+33 Bill pergi ke kamar tidur.
+34 Bill kembali ke kamar mandi.
+35 Maria kembali ke kantor.
+36 Bill meninggalkan bola sepak.
+37 Maria mengambil susu di sana.
+38 Fred pindah ke kamar tidur.
+39 Jeff pergi ke kamar tidur.
+40 Bill pergi ke lorong.
+41 Jeff mendapatkan apel di sana.
+42 Jeff memberikan apel itu kepada Fred.
+43 Apa yang Jeff berikan kepada Fred?	apel	42
+44 Maria meninggalkan susu.
+45 Maria pergi ke kamar mandi.
+46 Kepada siapa Jeff memberikan apel itu?	Fred	42
+47 Fred menjatuhkan apel.
+48 Maria meraih bola sepak di sana.
+49 Kepada siapa Jeff memberikan apel itu?	Fred	42
+50 Fred mengambil apel di sana.
+51 Jeff pergi ke kamar mandi.
+52 Maria pindah ke dapur.
+53 Maria membuang bola sepak itu.
+54 Bill pindah ke kantor.
+55 Jeff berjalan ke lorong.
+56 Maria meraih bola sepak di sana.
+57 Fred menjatuhkan apel di sana.
+58 Maria pergi ke kamar mandi.
+59 Fred pergi ke dapur.
+60 Bill mengambil susu di sana.
+61 Maria berangkat ke kantor.
+62 Maria memberikan bola sepak itu kepada Bill.
+63 Bill memberikan bola sepak itu kepada Maria.
+64 Kepada siapa Bill memberikan bola sepak itu?	Maria	63
+65 Jeff pergi ke taman.
+66 Maria menyerahkan bola sepak itu kepada Bill.
+67 Siapa yang menerima bola sepak?	Tagihan	66
+1 Fred pindah ke kamar tidur.
+2 Maria pergi ke kamar tidur.
+3 Bill mengambil apel di sana.
+4 Bill pergi ke taman.
+5 Jeff mengambil susu di sana.
+6 Bill menjatuhkan apel.
+7 Maria pergi ke lorong.
+8 Fred pergi ke kantor.
+9 Maria kembali ke dapur.
+10 Jeff menyerahkan susu itu kepada Maria.
+11 Siapa yang menerima susu?	Maria	10
+12 Maria pergi ke kantor.
+13 Bill mengambil apel di sana.
+14 Siapa yang menerima susu?	Maria	10
+15 Maria memberikan susu itu kepada Fred.
+16 Fred memberikan susu itu kepada Maria.
+17 Apa yang Fred berikan kepada Maria?	susu	16
+18 Maria meninggalkan susu.
+19 Jeff pergi ke kamar tidur.
+20 Siapa yang memberi susu?	Fred	16
+21 Maria pergi ke taman.
+22 Maria mendapatkan bola sepak di sana.
+23 Siapa yang memberi susu?	Fred	16
+1 Jeff pergi ke kamar tidur.
+2 Bill pindah ke taman.
+3 Fred mendapatkan apel di sana.
+4 Maria pergi ke kantor.
+5 Fred memberikan apel itu kepada Maria.
+6 Maria memberikan apel itu kepada Fred.
+7 Apa yang Maria berikan kepada Fred?	apel	6
+8 Fred memberikan apel itu kepada Maria.
+9 Maria menyerahkan apel itu kepada Fred.
+10 Siapa yang memberikan apel itu kepada Fred?	Maria	9
+11 Fred pergi ke kamar mandi.
+12 Maria kembali ke taman.
+13 Apa yang Maria berikan kepada Fred?	apel	9
+14 Bill kembali ke kamar tidur.
+15 Fred meraih bola sepak di sana.
+16 Apa yang Maria berikan kepada Fred?	apel	9
+17 Fred pergi ke lorong.
+18 Bill pindah ke taman.
+19 Jeff pergi ke kamar mandi.
+20 Fred pindah ke kamar mandi.
+21 Fred menyerahkan apel itu kepada Jeff.
+22 Jeff menyerahkan apel itu kepada Fred.
+23 Kepada siapa Jeff memberikan apel itu?	Fred	22
